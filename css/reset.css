@@ -1,0 +1,25 @@
+body, ul {
+  margin: 0px;
+  height: 100%;
+}
+
+ol, ul {
+  list-style: none;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.clear {
+	clear: both;
+}
